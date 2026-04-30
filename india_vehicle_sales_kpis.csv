@@ -1,0 +1,841 @@
+Year,State,Segment,Units_Sold,yoy_growth_pct,market_share_pct,cagr_3yr_pct,dominant_segment
+FY2019,Andhra Pradesh,Commercial Vehicle,45904,,0.1791,-5.71,Two-Wheeler
+FY2020,Andhra Pradesh,Commercial Vehicle,35445,-22.78,0.1671,-5.71,Two-Wheeler
+FY2021,Andhra Pradesh,Commercial Vehicle,30507,-13.93,0.1599,-5.71,Two-Wheeler
+FY2022,Andhra Pradesh,Commercial Vehicle,38479,26.13,0.2108,-5.71,Two-Wheeler
+FY2023,Andhra Pradesh,Commercial Vehicle,51011,32.57,0.2318,-5.71,Two-Wheeler
+FY2024,Andhra Pradesh,Commercial Vehicle,50241,-1.51,0.1959,-5.71,Two-Wheeler
+FY2019,Andhra Pradesh,Electric Vehicle,3609,,0.0141,91.73,Two-Wheeler
+FY2020,Andhra Pradesh,Electric Vehicle,9097,152.06,0.0429,91.73,Two-Wheeler
+FY2021,Andhra Pradesh,Electric Vehicle,14113,55.14,0.074,91.73,Two-Wheeler
+FY2022,Andhra Pradesh,Electric Vehicle,25438,80.25,0.1394,91.73,Two-Wheeler
+FY2023,Andhra Pradesh,Electric Vehicle,43976,72.88,0.1999,91.73,Two-Wheeler
+FY2024,Andhra Pradesh,Electric Vehicle,78151,77.71,0.3047,91.73,Two-Wheeler
+FY2019,Andhra Pradesh,Passenger Car,167203,,0.6523,-3.03,Two-Wheeler
+FY2020,Andhra Pradesh,Passenger Car,133908,-19.91,0.6311,-3.03,Two-Wheeler
+FY2021,Andhra Pradesh,Passenger Car,128762,-3.84,0.6748,-3.03,Two-Wheeler
+FY2022,Andhra Pradesh,Passenger Car,152473,18.41,0.8353,-3.03,Two-Wheeler
+FY2023,Andhra Pradesh,Passenger Car,186693,22.44,0.8485,-3.03,Two-Wheeler
+FY2024,Andhra Pradesh,Passenger Car,211812,13.45,0.8257,-3.03,Two-Wheeler
+FY2019,Andhra Pradesh,Three-Wheeler,30647,,0.1196,-10.98,Two-Wheeler
+FY2020,Andhra Pradesh,Three-Wheeler,30050,-1.95,0.1416,-10.98,Two-Wheeler
+FY2021,Andhra Pradesh,Three-Wheeler,22301,-25.79,0.1169,-10.98,Two-Wheeler
+FY2022,Andhra Pradesh,Three-Wheeler,21619,-3.06,0.1184,-10.98,Two-Wheeler
+FY2023,Andhra Pradesh,Three-Wheeler,36283,67.83,0.1649,-10.98,Two-Wheeler
+FY2024,Andhra Pradesh,Three-Wheeler,45427,25.2,0.1771,-10.98,Two-Wheeler
+FY2019,Andhra Pradesh,Two-Wheeler,1223763,,4.7743,-13.62,Two-Wheeler
+FY2020,Andhra Pradesh,Two-Wheeler,1013992,-17.14,4.7789,-13.62,Two-Wheeler
+FY2021,Andhra Pradesh,Two-Wheeler,878308,-13.38,4.6027,-13.62,Two-Wheeler
+FY2022,Andhra Pradesh,Two-Wheeler,788673,-10.21,4.3205,-13.62,Two-Wheeler
+FY2023,Andhra Pradesh,Two-Wheeler,917270,16.31,4.1687,-13.62,Two-Wheeler
+FY2024,Andhra Pradesh,Two-Wheeler,1004899,9.55,3.9175,-13.62,Two-Wheeler
+FY2019,Assam,Commercial Vehicle,8038,,0.0314,-4.88,Two-Wheeler
+FY2020,Assam,Commercial Vehicle,7139,-11.18,0.0336,-4.88,Two-Wheeler
+FY2021,Assam,Commercial Vehicle,5676,-20.49,0.0297,-4.88,Two-Wheeler
+FY2022,Assam,Commercial Vehicle,6917,21.86,0.0379,-4.88,Two-Wheeler
+FY2023,Assam,Commercial Vehicle,9447,36.58,0.0429,-4.88,Two-Wheeler
+FY2024,Assam,Commercial Vehicle,9178,-2.85,0.0358,-4.88,Two-Wheeler
+FY2019,Assam,Electric Vehicle,291,,0.0011,93.46,Two-Wheeler
+FY2020,Assam,Electric Vehicle,752,158.42,0.0035,93.46,Two-Wheeler
+FY2021,Assam,Electric Vehicle,1150,52.93,0.006,93.46,Two-Wheeler
+FY2022,Assam,Electric Vehicle,2107,83.22,0.0115,93.46,Two-Wheeler
+FY2023,Assam,Electric Vehicle,4658,121.07,0.0212,93.46,Two-Wheeler
+FY2024,Assam,Electric Vehicle,8380,79.91,0.0327,93.46,Two-Wheeler
+FY2019,Assam,Passenger Car,27681,,0.108,-4.07,Two-Wheeler
+FY2020,Assam,Passenger Car,22206,-19.78,0.1047,-4.07,Two-Wheeler
+FY2021,Assam,Passenger Car,22107,-0.45,0.1158,-4.07,Two-Wheeler
+FY2022,Assam,Passenger Car,24438,10.54,0.1339,-4.07,Two-Wheeler
+FY2023,Assam,Passenger Car,31071,27.14,0.1412,-4.07,Two-Wheeler
+FY2024,Assam,Passenger Car,34270,10.3,0.1336,-4.07,Two-Wheeler
+FY2019,Assam,Three-Wheeler,8805,,0.0344,-14.0,Two-Wheeler
+FY2020,Assam,Three-Wheeler,7744,-12.05,0.0365,-14.0,Two-Wheeler
+FY2021,Assam,Three-Wheeler,6050,-21.88,0.0317,-14.0,Two-Wheeler
+FY2022,Assam,Three-Wheeler,5600,-7.44,0.0307,-14.0,Two-Wheeler
+FY2023,Assam,Three-Wheeler,9488,69.43,0.0431,-14.0,Two-Wheeler
+FY2024,Assam,Three-Wheeler,12100,27.53,0.0472,-14.0,Two-Wheeler
+FY2019,Assam,Two-Wheeler,230387,,0.8988,-13.47,Two-Wheeler
+FY2020,Assam,Two-Wheeler,180814,-21.52,0.8522,-13.47,Two-Wheeler
+FY2021,Assam,Two-Wheeler,153705,-14.99,0.8055,-13.47,Two-Wheeler
+FY2022,Assam,Two-Wheeler,149282,-2.88,0.8178,-13.47,Two-Wheeler
+FY2023,Assam,Two-Wheeler,170940,14.51,0.7769,-13.47,Two-Wheeler
+FY2024,Assam,Two-Wheeler,192899,12.85,0.752,-13.47,Two-Wheeler
+FY2019,Bihar,Commercial Vehicle,20204,,0.0788,-3.93,Two-Wheeler
+FY2020,Bihar,Commercial Vehicle,17262,-14.56,0.0814,-3.93,Two-Wheeler
+FY2021,Bihar,Commercial Vehicle,13566,-21.41,0.0711,-3.93,Two-Wheeler
+FY2022,Bihar,Commercial Vehicle,17916,32.07,0.0981,-3.93,Two-Wheeler
+FY2023,Bihar,Commercial Vehicle,23130,29.1,0.1051,-3.93,Two-Wheeler
+FY2024,Bihar,Commercial Vehicle,24429,5.62,0.0952,-3.93,Two-Wheeler
+FY2019,Bihar,Electric Vehicle,879,,0.0034,91.67,Two-Wheeler
+FY2020,Bihar,Electric Vehicle,2276,158.93,0.0107,91.67,Two-Wheeler
+FY2021,Bihar,Electric Vehicle,3280,44.11,0.0172,91.67,Two-Wheeler
+FY2022,Bihar,Electric Vehicle,6189,88.69,0.0339,91.67,Two-Wheeler
+FY2023,Bihar,Electric Vehicle,14148,128.6,0.0643,91.67,Two-Wheeler
+FY2024,Bihar,Electric Vehicle,17990,27.16,0.0701,91.67,Two-Wheeler
+FY2019,Bihar,Passenger Car,64362,,0.2511,-1.3,Two-Wheeler
+FY2020,Bihar,Passenger Car,56397,-12.38,0.2658,-1.3,Two-Wheeler
+FY2021,Bihar,Passenger Car,54673,-3.06,0.2865,-1.3,Two-Wheeler
+FY2022,Bihar,Passenger Car,61884,13.19,0.339,-1.3,Two-Wheeler
+FY2023,Bihar,Passenger Car,77512,25.25,0.3523,-1.3,Two-Wheeler
+FY2024,Bihar,Passenger Car,85820,10.72,0.3346,-1.3,Two-Wheeler
+FY2019,Bihar,Three-Wheeler,29838,,0.1164,-13.74,Two-Wheeler
+FY2020,Bihar,Three-Wheeler,25342,-15.07,0.1194,-13.74,Two-Wheeler
+FY2021,Bihar,Three-Wheeler,19042,-24.86,0.0998,-13.74,Two-Wheeler
+FY2022,Bihar,Three-Wheeler,19154,0.59,0.1049,-13.74,Two-Wheeler
+FY2023,Bihar,Three-Wheeler,32727,70.86,0.1487,-13.74,Two-Wheeler
+FY2024,Bihar,Three-Wheeler,38282,16.97,0.1492,-13.74,Two-Wheeler
+FY2019,Bihar,Two-Wheeler,717037,,2.7974,-12.61,Two-Wheeler
+FY2020,Bihar,Two-Wheeler,619021,-13.67,2.9174,-12.61,Two-Wheeler
+FY2021,Bihar,Two-Wheeler,565335,-8.67,2.9626,-12.61,Two-Wheeler
+FY2022,Bihar,Two-Wheeler,478558,-15.35,2.6217,-12.61,Two-Wheeler
+FY2023,Bihar,Two-Wheeler,587245,22.71,2.6688,-12.61,Two-Wheeler
+FY2024,Bihar,Two-Wheeler,636521,8.39,2.4814,-12.61,Two-Wheeler
+FY2019,Chhattisgarh,Commercial Vehicle,14441,,0.0563,-3.12,Two-Wheeler
+FY2020,Chhattisgarh,Commercial Vehicle,13093,-9.33,0.0617,-3.12,Two-Wheeler
+FY2021,Chhattisgarh,Commercial Vehicle,9675,-26.11,0.0507,-3.12,Two-Wheeler
+FY2022,Chhattisgarh,Commercial Vehicle,13133,35.74,0.0719,-3.12,Two-Wheeler
+FY2023,Chhattisgarh,Commercial Vehicle,16262,23.83,0.0739,-3.12,Two-Wheeler
+FY2024,Chhattisgarh,Commercial Vehicle,16531,1.65,0.0644,-3.12,Two-Wheeler
+FY2019,Chhattisgarh,Electric Vehicle,1880,,0.0073,30.37,Two-Wheeler
+FY2020,Chhattisgarh,Electric Vehicle,1493,-20.59,0.007,30.37,Two-Wheeler
+FY2021,Chhattisgarh,Electric Vehicle,2362,58.2,0.0124,30.37,Two-Wheeler
+FY2022,Chhattisgarh,Electric Vehicle,4166,76.38,0.0228,30.37,Two-Wheeler
+FY2023,Chhattisgarh,Electric Vehicle,9178,120.31,0.0417,30.37,Two-Wheeler
+FY2024,Chhattisgarh,Electric Vehicle,16275,77.33,0.0634,30.37,Two-Wheeler
+FY2019,Chhattisgarh,Passenger Car,41858,,0.1633,-5.13,Two-Wheeler
+FY2020,Chhattisgarh,Passenger Car,31974,-23.61,0.1507,-5.13,Two-Wheeler
+FY2021,Chhattisgarh,Passenger Car,32970,3.12,0.1728,-5.13,Two-Wheeler
+FY2022,Chhattisgarh,Passenger Car,35742,8.41,0.1958,-5.13,Two-Wheeler
+FY2023,Chhattisgarh,Passenger Car,45550,27.44,0.207,-5.13,Two-Wheeler
+FY2024,Chhattisgarh,Passenger Car,49345,8.33,0.1924,-5.13,Two-Wheeler
+FY2019,Chhattisgarh,Three-Wheeler,10583,,0.0413,-11.09,Two-Wheeler
+FY2020,Chhattisgarh,Three-Wheeler,9729,-8.07,0.0459,-11.09,Two-Wheeler
+FY2021,Chhattisgarh,Three-Wheeler,7171,-26.29,0.0376,-11.09,Two-Wheeler
+FY2022,Chhattisgarh,Three-Wheeler,7438,3.72,0.0407,-11.09,Two-Wheeler
+FY2023,Chhattisgarh,Three-Wheeler,11440,53.8,0.052,-11.09,Two-Wheeler
+FY2024,Chhattisgarh,Three-Wheeler,15310,33.83,0.0597,-11.09,Two-Wheeler
+FY2019,Chhattisgarh,Two-Wheeler,347739,,1.3566,-15.07,Two-Wheeler
+FY2020,Chhattisgarh,Two-Wheeler,276260,-20.56,1.302,-15.07,Two-Wheeler
+FY2021,Chhattisgarh,Two-Wheeler,229869,-16.79,1.2046,-15.07,Two-Wheeler
+FY2022,Chhattisgarh,Two-Wheeler,213037,-7.32,1.1671,-15.07,Two-Wheeler
+FY2023,Chhattisgarh,Two-Wheeler,252075,18.32,1.1456,-15.07,Two-Wheeler
+FY2024,Chhattisgarh,Two-Wheeler,287954,14.23,1.1226,-15.07,Two-Wheeler
+FY2019,Delhi,Commercial Vehicle,31422,,0.1226,-5.82,Two-Wheeler
+FY2020,Delhi,Commercial Vehicle,28099,-10.58,0.1324,-5.82,Two-Wheeler
+FY2021,Delhi,Commercial Vehicle,21609,-23.1,0.1132,-5.82,Two-Wheeler
+FY2022,Delhi,Commercial Vehicle,26250,21.48,0.1438,-5.82,Two-Wheeler
+FY2023,Delhi,Commercial Vehicle,37450,42.67,0.1702,-5.82,Two-Wheeler
+FY2024,Delhi,Commercial Vehicle,33057,-11.73,0.1289,-5.82,Two-Wheeler
+FY2019,Delhi,Electric Vehicle,4897,,0.0191,94.2,Two-Wheeler
+FY2020,Delhi,Electric Vehicle,11417,133.14,0.0538,94.2,Two-Wheeler
+FY2021,Delhi,Electric Vehicle,18492,61.97,0.0969,94.2,Two-Wheeler
+FY2022,Delhi,Electric Vehicle,35866,93.95,0.1965,94.2,Two-Wheeler
+FY2023,Delhi,Electric Vehicle,77839,117.03,0.3538,94.2,Two-Wheeler
+FY2024,Delhi,Electric Vehicle,140163,80.07,0.5464,94.2,Two-Wheeler
+FY2019,Delhi,Passenger Car,184886,,0.7213,-4.12,Two-Wheeler
+FY2020,Delhi,Passenger Car,146308,-20.87,0.6895,-4.12,Two-Wheeler
+FY2021,Delhi,Passenger Car,145139,-0.8,0.7606,-4.12,Two-Wheeler
+FY2022,Delhi,Passenger Car,162975,12.29,0.8928,-4.12,Two-Wheeler
+FY2023,Delhi,Passenger Car,208124,27.7,0.9459,-4.12,Two-Wheeler
+FY2024,Delhi,Passenger Car,231664,11.31,0.9031,-4.12,Two-Wheeler
+FY2019,Delhi,Three-Wheeler,68353,,0.2667,-11.48,Two-Wheeler
+FY2020,Delhi,Three-Wheeler,59456,-13.02,0.2802,-11.48,Two-Wheeler
+FY2021,Delhi,Three-Wheeler,46909,-21.1,0.2458,-11.48,Two-Wheeler
+FY2022,Delhi,Three-Wheeler,47414,1.08,0.2597,-11.48,Two-Wheeler
+FY2023,Delhi,Three-Wheeler,74568,57.27,0.3389,-11.48,Two-Wheeler
+FY2024,Delhi,Three-Wheeler,96100,28.88,0.3746,-11.48,Two-Wheeler
+FY2019,Delhi,Two-Wheeler,806793,,3.1475,-14.67,Two-Wheeler
+FY2020,Delhi,Two-Wheeler,668578,-17.13,3.151,-14.67,Two-Wheeler
+FY2021,Delhi,Two-Wheeler,562236,-15.91,2.9463,-14.67,Two-Wheeler
+FY2022,Delhi,Two-Wheeler,501340,-10.83,2.7465,-14.67,Two-Wheeler
+FY2023,Delhi,Two-Wheeler,573329,14.36,2.6056,-14.67,Two-Wheeler
+FY2024,Delhi,Two-Wheeler,668026,16.52,2.6042,-14.67,Two-Wheeler
+FY2019,Goa,Commercial Vehicle,4181,,0.0163,-5.52,Two-Wheeler
+FY2020,Goa,Commercial Vehicle,3403,-18.61,0.016,-5.52,Two-Wheeler
+FY2021,Goa,Commercial Vehicle,2781,-18.28,0.0146,-5.52,Two-Wheeler
+FY2022,Goa,Commercial Vehicle,3526,26.79,0.0193,-5.52,Two-Wheeler
+FY2023,Goa,Commercial Vehicle,4824,36.81,0.0219,-5.52,Two-Wheeler
+FY2024,Goa,Commercial Vehicle,4421,-8.35,0.0172,-5.52,Two-Wheeler
+FY2019,Goa,Electric Vehicle,577,,0.0023,92.87,Two-Wheeler
+FY2020,Goa,Electric Vehicle,1560,170.36,0.0074,92.87,Two-Wheeler
+FY2021,Goa,Electric Vehicle,2365,51.6,0.0124,92.87,Two-Wheeler
+FY2022,Goa,Electric Vehicle,4140,75.05,0.0227,92.87,Two-Wheeler
+FY2023,Goa,Electric Vehicle,9268,123.86,0.0421,92.87,Two-Wheeler
+FY2024,Goa,Electric Vehicle,15985,72.48,0.0623,92.87,Two-Wheeler
+FY2019,Goa,Passenger Car,25947,,0.1012,-1.81,Two-Wheeler
+FY2020,Goa,Passenger Car,22898,-11.75,0.1079,-1.81,Two-Wheeler
+FY2021,Goa,Passenger Car,21001,-8.28,0.1101,-1.81,Two-Wheeler
+FY2022,Goa,Passenger Car,24564,16.97,0.1346,-1.81,Two-Wheeler
+FY2023,Goa,Passenger Car,29519,20.17,0.1342,-1.81,Two-Wheeler
+FY2024,Goa,Passenger Car,32691,10.75,0.1274,-1.81,Two-Wheeler
+FY2019,Goa,Three-Wheeler,4298,,0.0168,-12.39,Two-Wheeler
+FY2020,Goa,Three-Wheeler,4047,-5.84,0.0191,-12.39,Two-Wheeler
+FY2021,Goa,Three-Wheeler,2873,-29.01,0.0151,-12.39,Two-Wheeler
+FY2022,Goa,Three-Wheeler,2890,0.59,0.0158,-12.39,Two-Wheeler
+FY2023,Goa,Three-Wheeler,4874,68.65,0.0222,-12.39,Two-Wheeler
+FY2024,Goa,Three-Wheeler,6031,23.74,0.0235,-12.39,Two-Wheeler
+FY2019,Goa,Two-Wheeler,116049,,0.4527,-14.6,Two-Wheeler
+FY2020,Goa,Two-Wheeler,91166,-21.44,0.4297,-14.6,Two-Wheeler
+FY2021,Goa,Two-Wheeler,80274,-11.95,0.4207,-14.6,Two-Wheeler
+FY2022,Goa,Two-Wheeler,72283,-9.95,0.396,-14.6,Two-Wheeler
+FY2023,Goa,Two-Wheeler,84540,16.96,0.3842,-14.6,Two-Wheeler
+FY2024,Goa,Two-Wheeler,96976,14.71,0.3781,-14.6,Two-Wheeler
+FY2019,Gujarat,Commercial Vehicle,73783,,0.2878,-4.5,Two-Wheeler
+FY2020,Gujarat,Commercial Vehicle,62330,-15.52,0.2938,-4.5,Two-Wheeler
+FY2021,Gujarat,Commercial Vehicle,49834,-20.05,0.2611,-4.5,Two-Wheeler
+FY2022,Gujarat,Commercial Vehicle,64273,28.97,0.3521,-4.5,Two-Wheeler
+FY2023,Gujarat,Commercial Vehicle,86977,35.32,0.3953,-4.5,Two-Wheeler
+FY2024,Gujarat,Commercial Vehicle,83029,-4.54,0.3237,-4.5,Two-Wheeler
+FY2019,Gujarat,Electric Vehicle,4368,,0.017,92.36,Two-Wheeler
+FY2020,Gujarat,Electric Vehicle,11445,162.02,0.0539,92.36,Two-Wheeler
+FY2021,Gujarat,Electric Vehicle,17923,56.6,0.0939,92.36,Two-Wheeler
+FY2022,Gujarat,Electric Vehicle,31092,73.48,0.1703,92.36,Two-Wheeler
+FY2023,Gujarat,Electric Vehicle,57228,84.06,0.2601,92.36,Two-Wheeler
+FY2024,Gujarat,Electric Vehicle,124662,117.83,0.486,92.36,Two-Wheeler
+FY2019,Gujarat,Passenger Car,252507,,0.9851,-3.64,Two-Wheeler
+FY2020,Gujarat,Passenger Car,171658,-32.02,0.809,-3.64,Two-Wheeler
+FY2021,Gujarat,Passenger Car,200005,16.51,1.0481,-3.64,Two-Wheeler
+FY2022,Gujarat,Passenger Car,225931,12.96,1.2377,-3.64,Two-Wheeler
+FY2023,Gujarat,Passenger Car,288166,27.55,1.3096,-3.64,Two-Wheeler
+FY2024,Gujarat,Passenger Car,317928,10.33,1.2394,-3.64,Two-Wheeler
+FY2019,Gujarat,Three-Wheeler,52732,,0.2057,-11.56,Two-Wheeler
+FY2020,Gujarat,Three-Wheeler,48676,-7.69,0.2294,-11.56,Two-Wheeler
+FY2021,Gujarat,Three-Wheeler,36280,-25.47,0.1901,-11.56,Two-Wheeler
+FY2022,Gujarat,Three-Wheeler,36483,0.56,0.1999,-11.56,Two-Wheeler
+FY2023,Gujarat,Three-Wheeler,57217,56.83,0.26,-11.56,Two-Wheeler
+FY2024,Gujarat,Three-Wheeler,74140,29.58,0.289,-11.56,Two-Wheeler
+FY2019,Gujarat,Two-Wheeler,1209120,,4.7171,-7.69,Two-Wheeler
+FY2020,Gujarat,Two-Wheeler,1178285,-2.55,5.5532,-7.69,Two-Wheeler
+FY2021,Gujarat,Two-Wheeler,1065955,-9.53,5.586,-7.69,Two-Wheeler
+FY2022,Gujarat,Two-Wheeler,950962,-10.79,5.2096,-7.69,Two-Wheeler
+FY2023,Gujarat,Two-Wheeler,1115423,17.29,5.0692,-7.69,Two-Wheeler
+FY2024,Gujarat,Two-Wheeler,1202995,7.85,4.6898,-7.69,Two-Wheeler
+FY2019,Haryana,Commercial Vehicle,33786,,0.1318,-6.96,Two-Wheeler
+FY2020,Haryana,Commercial Vehicle,28761,-14.87,0.1355,-6.96,Two-Wheeler
+FY2021,Haryana,Commercial Vehicle,22697,-21.08,0.1189,-6.96,Two-Wheeler
+FY2022,Haryana,Commercial Vehicle,27210,19.88,0.1491,-6.96,Two-Wheeler
+FY2023,Haryana,Commercial Vehicle,37286,37.03,0.1695,-6.96,Two-Wheeler
+FY2024,Haryana,Commercial Vehicle,37398,0.3,0.1458,-6.96,Two-Wheeler
+FY2019,Haryana,Electric Vehicle,2654,,0.0104,90.76,Two-Wheeler
+FY2020,Haryana,Electric Vehicle,6924,160.89,0.0326,90.76,Two-Wheeler
+FY2021,Haryana,Electric Vehicle,9808,41.65,0.0514,90.76,Two-Wheeler
+FY2022,Haryana,Electric Vehicle,18424,87.85,0.1009,90.76,Two-Wheeler
+FY2023,Haryana,Electric Vehicle,39934,116.75,0.1815,90.76,Two-Wheeler
+FY2024,Haryana,Electric Vehicle,71914,80.08,0.2804,90.76,Two-Wheeler
+FY2019,Haryana,Passenger Car,100975,,0.3939,0.72,Two-Wheeler
+FY2020,Haryana,Passenger Car,100403,-0.57,0.4732,0.72,Two-Wheeler
+FY2021,Haryana,Passenger Car,94282,-6.1,0.4941,0.72,Two-Wheeler
+FY2022,Haryana,Passenger Car,103177,9.43,0.5652,0.72,Two-Wheeler
+FY2023,Haryana,Passenger Car,128808,24.84,0.5854,0.72,Two-Wheeler
+FY2024,Haryana,Passenger Car,148776,15.5,0.58,0.72,Two-Wheeler
+FY2019,Haryana,Three-Wheeler,20921,,0.0816,-11.45,Two-Wheeler
+FY2020,Haryana,Three-Wheeler,18915,-9.59,0.0891,-11.45,Two-Wheeler
+FY2021,Haryana,Three-Wheeler,14730,-22.13,0.0772,-11.45,Two-Wheeler
+FY2022,Haryana,Three-Wheeler,14525,-1.39,0.0796,-11.45,Two-Wheeler
+FY2023,Haryana,Three-Wheeler,24042,65.52,0.1093,-11.45,Two-Wheeler
+FY2024,Haryana,Three-Wheeler,30341,26.2,0.1183,-11.45,Two-Wheeler
+FY2019,Haryana,Two-Wheeler,667378,,2.6036,-13.3,Two-Wheeler
+FY2020,Haryana,Two-Wheeler,556335,-16.64,2.622,-13.3,Two-Wheeler
+FY2021,Haryana,Two-Wheeler,469469,-15.61,2.4602,-13.3,Two-Wheeler
+FY2022,Haryana,Two-Wheeler,434869,-7.37,2.3823,-13.3,Two-Wheeler
+FY2023,Haryana,Two-Wheeler,501466,15.31,2.279,-13.3,Two-Wheeler
+FY2024,Haryana,Two-Wheeler,560237,11.72,2.184,-13.3,Two-Wheeler
+FY2019,Himachal Pradesh,Commercial Vehicle,6594,,0.0257,-5.96,Two-Wheeler
+FY2020,Himachal Pradesh,Commercial Vehicle,5569,-15.54,0.0262,-5.96,Two-Wheeler
+FY2021,Himachal Pradesh,Commercial Vehicle,4412,-20.78,0.0231,-5.96,Two-Wheeler
+FY2022,Himachal Pradesh,Commercial Vehicle,5483,24.27,0.03,-5.96,Two-Wheeler
+FY2023,Himachal Pradesh,Commercial Vehicle,7511,36.99,0.0341,-5.96,Two-Wheeler
+FY2024,Himachal Pradesh,Commercial Vehicle,7792,3.74,0.0304,-5.96,Two-Wheeler
+FY2019,Himachal Pradesh,Electric Vehicle,361,,0.0014,91.67,Two-Wheeler
+FY2020,Himachal Pradesh,Electric Vehicle,858,137.67,0.004,91.67,Two-Wheeler
+FY2021,Himachal Pradesh,Electric Vehicle,1389,61.89,0.0073,91.67,Two-Wheeler
+FY2022,Himachal Pradesh,Electric Vehicle,2542,83.01,0.0139,91.67,Two-Wheeler
+FY2023,Himachal Pradesh,Electric Vehicle,5648,122.19,0.0257,91.67,Two-Wheeler
+FY2024,Himachal Pradesh,Electric Vehicle,10037,77.71,0.0391,91.67,Two-Wheeler
+FY2019,Himachal Pradesh,Passenger Car,23659,,0.0923,-3.86,Two-Wheeler
+FY2020,Himachal Pradesh,Passenger Car,19500,-17.58,0.0919,-3.86,Two-Wheeler
+FY2021,Himachal Pradesh,Passenger Car,18717,-4.02,0.0981,-3.86,Two-Wheeler
+FY2022,Himachal Pradesh,Passenger Car,21021,12.31,0.1152,-3.86,Two-Wheeler
+FY2023,Himachal Pradesh,Passenger Car,41728,98.51,0.1896,-3.86,Two-Wheeler
+FY2024,Himachal Pradesh,Passenger Car,29447,-29.43,0.1148,-3.86,Two-Wheeler
+FY2019,Himachal Pradesh,Three-Wheeler,3575,,0.0139,-11.44,Two-Wheeler
+FY2020,Himachal Pradesh,Three-Wheeler,3183,-10.97,0.015,-11.44,Two-Wheeler
+FY2021,Himachal Pradesh,Three-Wheeler,2465,-22.56,0.0129,-11.44,Two-Wheeler
+FY2022,Himachal Pradesh,Three-Wheeler,2483,0.73,0.0136,-11.44,Two-Wheeler
+FY2023,Himachal Pradesh,Three-Wheeler,4094,64.88,0.0186,-11.44,Two-Wheeler
+FY2024,Himachal Pradesh,Three-Wheeler,5032,22.91,0.0196,-11.44,Two-Wheeler
+FY2019,Himachal Pradesh,Two-Wheeler,133206,,0.5197,-13.92,Two-Wheeler
+FY2020,Himachal Pradesh,Two-Wheeler,109925,-17.48,0.5181,-13.92,Two-Wheeler
+FY2021,Himachal Pradesh,Two-Wheeler,97357,-11.43,0.5102,-13.92,Two-Wheeler
+FY2022,Himachal Pradesh,Two-Wheeler,84951,-12.74,0.4654,-13.92,Two-Wheeler
+FY2023,Himachal Pradesh,Two-Wheeler,97952,15.3,0.4452,-13.92,Two-Wheeler
+FY2024,Himachal Pradesh,Two-Wheeler,113309,15.68,0.4417,-13.92,Two-Wheeler
+FY2019,Jammu & Kashmir,Commercial Vehicle,4921,,0.0192,-5.59,Two-Wheeler
+FY2020,Jammu & Kashmir,Commercial Vehicle,4002,-18.68,0.0189,-5.59,Two-Wheeler
+FY2021,Jammu & Kashmir,Commercial Vehicle,3254,-18.69,0.0171,-5.59,Two-Wheeler
+FY2022,Jammu & Kashmir,Commercial Vehicle,4141,27.26,0.0227,-5.59,Two-Wheeler
+FY2023,Jammu & Kashmir,Commercial Vehicle,5528,33.49,0.0251,-5.59,Two-Wheeler
+FY2024,Jammu & Kashmir,Commercial Vehicle,5453,-1.36,0.0213,-5.59,Two-Wheeler
+FY2019,Jammu & Kashmir,Electric Vehicle,1621,,0.0063,0.55,Two-Wheeler
+FY2020,Jammu & Kashmir,Electric Vehicle,1927,18.88,0.0091,0.55,Two-Wheeler
+FY2021,Jammu & Kashmir,Electric Vehicle,927,-51.89,0.0049,0.55,Two-Wheeler
+FY2022,Jammu & Kashmir,Electric Vehicle,1648,77.78,0.009,0.55,Two-Wheeler
+FY2023,Jammu & Kashmir,Electric Vehicle,3614,119.3,0.0164,0.55,Two-Wheeler
+FY2024,Jammu & Kashmir,Electric Vehicle,6626,83.34,0.0258,0.55,Two-Wheeler
+FY2019,Jammu & Kashmir,Passenger Car,19806,,0.0773,-2.17,Two-Wheeler
+FY2020,Jammu & Kashmir,Passenger Car,15774,-20.36,0.0743,-2.17,Two-Wheeler
+FY2021,Jammu & Kashmir,Passenger Car,16370,3.78,0.0858,-2.17,Two-Wheeler
+FY2022,Jammu & Kashmir,Passenger Car,18542,13.27,0.1016,-2.17,Two-Wheeler
+FY2023,Jammu & Kashmir,Passenger Car,24000,29.44,0.1091,-2.17,Two-Wheeler
+FY2024,Jammu & Kashmir,Passenger Car,25722,7.17,0.1003,-2.17,Two-Wheeler
+FY2019,Jammu & Kashmir,Three-Wheeler,3563,,0.0139,-12.77,Two-Wheeler
+FY2020,Jammu & Kashmir,Three-Wheeler,3115,-12.57,0.0147,-12.77,Two-Wheeler
+FY2021,Jammu & Kashmir,Three-Wheeler,2533,-18.68,0.0133,-12.77,Two-Wheeler
+FY2022,Jammu & Kashmir,Three-Wheeler,2365,-6.63,0.013,-12.77,Two-Wheeler
+FY2023,Jammu & Kashmir,Three-Wheeler,3868,63.55,0.0176,-12.77,Two-Wheeler
+FY2024,Jammu & Kashmir,Three-Wheeler,4910,26.94,0.0191,-12.77,Two-Wheeler
+FY2019,Jammu & Kashmir,Two-Wheeler,112221,,0.4378,-14.23,Two-Wheeler
+FY2020,Jammu & Kashmir,Two-Wheeler,87788,-21.77,0.4137,-14.23,Two-Wheeler
+FY2021,Jammu & Kashmir,Two-Wheeler,79960,-8.92,0.419,-14.23,Two-Wheeler
+FY2022,Jammu & Kashmir,Two-Wheeler,70799,-11.46,0.3879,-14.23,Two-Wheeler
+FY2023,Jammu & Kashmir,Two-Wheeler,81434,15.02,0.3701,-14.23,Two-Wheeler
+FY2024,Jammu & Kashmir,Two-Wheeler,97024,19.14,0.3782,-14.23,Two-Wheeler
+FY2019,Jharkhand,Commercial Vehicle,14818,,0.0578,-9.78,Two-Wheeler
+FY2020,Jharkhand,Commercial Vehicle,10625,-28.3,0.0501,-9.78,Two-Wheeler
+FY2021,Jharkhand,Commercial Vehicle,8524,-19.77,0.0447,-9.78,Two-Wheeler
+FY2022,Jharkhand,Commercial Vehicle,10881,27.65,0.0596,-9.78,Two-Wheeler
+FY2023,Jharkhand,Commercial Vehicle,13911,27.85,0.0632,-9.78,Two-Wheeler
+FY2024,Jharkhand,Commercial Vehicle,13915,0.03,0.0542,-9.78,Two-Wheeler
+FY2019,Jharkhand,Electric Vehicle,449,,0.0018,95.19,Two-Wheeler
+FY2020,Jharkhand,Electric Vehicle,1281,185.3,0.006,95.19,Two-Wheeler
+FY2021,Jharkhand,Electric Vehicle,1779,38.88,0.0093,95.19,Two-Wheeler
+FY2022,Jharkhand,Electric Vehicle,3339,87.69,0.0183,95.19,Two-Wheeler
+FY2023,Jharkhand,Electric Vehicle,7264,117.55,0.033,95.19,Two-Wheeler
+FY2024,Jharkhand,Electric Vehicle,12797,76.17,0.0499,95.19,Two-Wheeler
+FY2019,Jharkhand,Passenger Car,46102,,0.1799,-3.4,Two-Wheeler
+FY2020,Jharkhand,Passenger Car,27031,-41.37,0.1274,-3.4,Two-Wheeler
+FY2021,Jharkhand,Passenger Car,26275,-2.8,0.1377,-3.4,Two-Wheeler
+FY2022,Jharkhand,Passenger Car,41552,58.14,0.2276,-3.4,Two-Wheeler
+FY2023,Jharkhand,Passenger Car,37908,-8.77,0.1723,-3.4,Two-Wheeler
+FY2024,Jharkhand,Passenger Car,42858,13.06,0.1671,-3.4,Two-Wheeler
+FY2019,Jharkhand,Three-Wheeler,8336,,0.0325,-11.43,Two-Wheeler
+FY2020,Jharkhand,Three-Wheeler,7406,-11.16,0.0349,-11.43,Two-Wheeler
+FY2021,Jharkhand,Three-Wheeler,5804,-21.63,0.0304,-11.43,Two-Wheeler
+FY2022,Jharkhand,Three-Wheeler,5791,-0.22,0.0317,-11.43,Two-Wheeler
+FY2023,Jharkhand,Three-Wheeler,9248,59.7,0.042,-11.43,Two-Wheeler
+FY2024,Jharkhand,Three-Wheeler,11976,29.5,0.0467,-11.43,Two-Wheeler
+FY2019,Jharkhand,Two-Wheeler,271087,,1.0576,-15.07,Two-Wheeler
+FY2020,Jharkhand,Two-Wheeler,226595,-16.41,1.0679,-15.07,Two-Wheeler
+FY2021,Jharkhand,Two-Wheeler,188323,-16.89,0.9869,-15.07,Two-Wheeler
+FY2022,Jharkhand,Two-Wheeler,166063,-11.82,0.9097,-15.07,Two-Wheeler
+FY2023,Jharkhand,Two-Wheeler,193873,16.75,0.8811,-15.07,Two-Wheeler
+FY2024,Jharkhand,Two-Wheeler,228350,17.78,0.8902,-15.07,Two-Wheeler
+FY2019,Karnataka,Commercial Vehicle,56544,,0.2206,-4.29,Two-Wheeler
+FY2020,Karnataka,Commercial Vehicle,50133,-11.34,0.2363,-4.29,Two-Wheeler
+FY2021,Karnataka,Commercial Vehicle,40127,-19.96,0.2103,-4.29,Two-Wheeler
+FY2022,Karnataka,Commercial Vehicle,49572,23.54,0.2716,-4.29,Two-Wheeler
+FY2023,Karnataka,Commercial Vehicle,65388,31.91,0.2972,-4.29,Two-Wheeler
+FY2024,Karnataka,Commercial Vehicle,68244,4.37,0.266,-4.29,Two-Wheeler
+FY2019,Karnataka,Electric Vehicle,7102,,0.0277,92.05,Two-Wheeler
+FY2020,Karnataka,Electric Vehicle,18105,154.93,0.0853,92.05,Two-Wheeler
+FY2021,Karnataka,Electric Vehicle,27351,51.07,0.1433,92.05,Two-Wheeler
+FY2022,Karnataka,Electric Vehicle,50307,83.93,0.2756,92.05,Two-Wheeler
+FY2023,Karnataka,Electric Vehicle,76855,52.77,0.3493,92.05,Two-Wheeler
+FY2024,Karnataka,Electric Vehicle,194152,152.62,0.7569,92.05,Two-Wheeler
+FY2019,Karnataka,Passenger Car,299754,,1.1694,-3.69,Two-Wheeler
+FY2020,Karnataka,Passenger Car,241340,-19.49,1.1374,-3.69,Two-Wheeler
+FY2021,Karnataka,Passenger Car,241495,0.06,1.2655,-3.69,Two-Wheeler
+FY2022,Karnataka,Passenger Car,267774,10.88,1.4669,-3.69,Two-Wheeler
+FY2023,Karnataka,Passenger Car,344846,28.78,1.5672,-3.69,Two-Wheeler
+FY2024,Karnataka,Passenger Car,385467,11.78,1.5027,-3.69,Two-Wheeler
+FY2019,Karnataka,Three-Wheeler,37224,,0.1452,-10.07,Two-Wheeler
+FY2020,Karnataka,Three-Wheeler,35329,-5.09,0.1665,-10.07,Two-Wheeler
+FY2021,Karnataka,Three-Wheeler,27136,-23.19,0.1422,-10.07,Two-Wheeler
+FY2022,Karnataka,Three-Wheeler,27076,-0.22,0.1483,-10.07,Two-Wheeler
+FY2023,Karnataka,Three-Wheeler,43328,60.02,0.1969,-10.07,Two-Wheeler
+FY2024,Karnataka,Three-Wheeler,55287,27.6,0.2155,-10.07,Two-Wheeler
+FY2019,Karnataka,Two-Wheeler,1413500,,5.5145,-12.88,Two-Wheeler
+FY2020,Karnataka,Two-Wheeler,994999,-29.61,4.6894,-12.88,Two-Wheeler
+FY2021,Karnataka,Two-Wheeler,1025732,3.09,5.3752,-12.88,Two-Wheeler
+FY2022,Karnataka,Two-Wheeler,934566,-8.89,5.1198,-12.88,Two-Wheeler
+FY2023,Karnataka,Two-Wheeler,1102581,17.98,5.0109,-12.88,Two-Wheeler
+FY2024,Karnataka,Two-Wheeler,1210897,9.82,4.7206,-12.88,Two-Wheeler
+FY2019,Kerala,Commercial Vehicle,29417,,0.1148,-6.6,Two-Wheeler
+FY2020,Kerala,Commercial Vehicle,24471,-16.81,0.1153,-6.6,Two-Wheeler
+FY2021,Kerala,Commercial Vehicle,19231,-21.41,0.1008,-6.6,Two-Wheeler
+FY2022,Kerala,Commercial Vehicle,23969,24.64,0.1313,-6.6,Two-Wheeler
+FY2023,Kerala,Commercial Vehicle,33357,39.17,0.1516,-6.6,Two-Wheeler
+FY2024,Kerala,Commercial Vehicle,33755,1.19,0.1316,-6.6,Two-Wheeler
+FY2019,Kerala,Electric Vehicle,3110,,0.0121,97.27,Two-Wheeler
+FY2020,Kerala,Electric Vehicle,8447,171.61,0.0398,97.27,Two-Wheeler
+FY2021,Kerala,Electric Vehicle,12568,48.79,0.0659,97.27,Two-Wheeler
+FY2022,Kerala,Electric Vehicle,23875,89.97,0.1308,97.27,Two-Wheeler
+FY2023,Kerala,Electric Vehicle,49176,105.97,0.2235,97.27,Two-Wheeler
+FY2024,Kerala,Electric Vehicle,64437,31.03,0.2512,97.27,Two-Wheeler
+FY2019,Kerala,Passenger Car,154067,,0.6011,-3.12,Two-Wheeler
+FY2020,Kerala,Passenger Car,126062,-18.18,0.5941,-3.12,Two-Wheeler
+FY2021,Kerala,Passenger Car,119939,-4.86,0.6285,-3.12,Two-Wheeler
+FY2022,Kerala,Passenger Car,140090,16.8,0.7674,-3.12,Two-Wheeler
+FY2023,Kerala,Passenger Car,173830,24.08,0.79,-3.12,Two-Wheeler
+FY2024,Kerala,Passenger Car,191107,9.94,0.745,-3.12,Two-Wheeler
+FY2019,Kerala,Three-Wheeler,16929,,0.066,-11.36,Two-Wheeler
+FY2020,Kerala,Three-Wheeler,16231,-4.12,0.0765,-11.36,Two-Wheeler
+FY2021,Kerala,Three-Wheeler,12663,-21.98,0.0664,-11.36,Two-Wheeler
+FY2022,Kerala,Three-Wheeler,11789,-6.9,0.0646,-11.36,Two-Wheeler
+FY2023,Kerala,Three-Wheeler,19413,64.67,0.0882,-11.36,Two-Wheeler
+FY2024,Kerala,Three-Wheeler,25294,30.29,0.0986,-11.36,Two-Wheeler
+FY2019,Kerala,Two-Wheeler,677798,,2.6443,-13.2,Two-Wheeler
+FY2020,Kerala,Two-Wheeler,533738,-21.25,2.5155,-13.2,Two-Wheeler
+FY2021,Kerala,Two-Wheeler,480071,-10.05,2.5158,-13.2,Two-Wheeler
+FY2022,Kerala,Two-Wheeler,443316,-7.66,2.4286,-13.2,Two-Wheeler
+FY2023,Kerala,Two-Wheeler,501213,13.06,2.2779,-13.2,Two-Wheeler
+FY2024,Kerala,Two-Wheeler,565136,12.75,2.2031,-13.2,Two-Wheeler
+FY2019,Madhya Pradesh,Commercial Vehicle,45735,,0.1784,-6.11,Two-Wheeler
+FY2020,Madhya Pradesh,Commercial Vehicle,38876,-15.0,0.1832,-6.11,Two-Wheeler
+FY2021,Madhya Pradesh,Commercial Vehicle,30779,-20.83,0.1613,-6.11,Two-Wheeler
+FY2022,Madhya Pradesh,Commercial Vehicle,37851,22.98,0.2074,-6.11,Two-Wheeler
+FY2023,Madhya Pradesh,Commercial Vehicle,48957,29.34,0.2225,-6.11,Two-Wheeler
+FY2024,Madhya Pradesh,Commercial Vehicle,52384,7.0,0.2042,-6.11,Two-Wheeler
+FY2019,Madhya Pradesh,Electric Vehicle,1773,,0.0069,91.29,Two-Wheeler
+FY2020,Madhya Pradesh,Electric Vehicle,4492,153.36,0.0212,91.29,Two-Wheeler
+FY2021,Madhya Pradesh,Electric Vehicle,6679,48.69,0.035,91.29,Two-Wheeler
+FY2022,Madhya Pradesh,Electric Vehicle,12411,85.82,0.068,91.29,Two-Wheeler
+FY2023,Madhya Pradesh,Electric Vehicle,22846,84.08,0.1038,91.29,Two-Wheeler
+FY2024,Madhya Pradesh,Electric Vehicle,50009,118.9,0.195,91.29,Two-Wheeler
+FY2019,Madhya Pradesh,Passenger Car,135069,,0.5269,0.14,Two-Wheeler
+FY2020,Madhya Pradesh,Passenger Car,122515,-9.29,0.5774,0.14,Two-Wheeler
+FY2021,Madhya Pradesh,Passenger Car,120816,-1.39,0.6331,0.14,Two-Wheeler
+FY2022,Madhya Pradesh,Passenger Car,135655,12.28,0.7432,0.14,Two-Wheeler
+FY2023,Madhya Pradesh,Passenger Car,175842,29.62,0.7991,0.14,Two-Wheeler
+FY2024,Madhya Pradesh,Passenger Car,195473,11.16,0.762,0.14,Two-Wheeler
+FY2019,Madhya Pradesh,Three-Wheeler,25004,,0.0975,-11.34,Two-Wheeler
+FY2020,Madhya Pradesh,Three-Wheeler,22820,-8.73,0.1075,-11.34,Two-Wheeler
+FY2021,Madhya Pradesh,Three-Wheeler,17212,-24.57,0.0902,-11.34,Two-Wheeler
+FY2022,Madhya Pradesh,Three-Wheeler,17427,1.25,0.0955,-11.34,Two-Wheeler
+FY2023,Madhya Pradesh,Three-Wheeler,27447,57.5,0.1247,-11.34,Two-Wheeler
+FY2024,Madhya Pradesh,Three-Wheeler,35658,29.92,0.139,-11.34,Two-Wheeler
+FY2019,Madhya Pradesh,Two-Wheeler,1334546,,5.2065,-14.24,Two-Wheeler
+FY2020,Madhya Pradesh,Two-Wheeler,954233,-28.5,4.4973,-14.24,Two-Wheeler
+FY2021,Madhya Pradesh,Two-Wheeler,950769,-0.36,4.9824,-14.24,Two-Wheeler
+FY2022,Madhya Pradesh,Two-Wheeler,841661,-11.48,4.6108,-14.24,Two-Wheeler
+FY2023,Madhya Pradesh,Two-Wheeler,1010912,20.11,4.5943,-14.24,Two-Wheeler
+FY2024,Madhya Pradesh,Two-Wheeler,1152611,14.02,4.4934,-14.24,Two-Wheeler
+FY2019,Maharashtra,Commercial Vehicle,96820,,0.3777,-5.24,Two-Wheeler
+FY2020,Maharashtra,Commercial Vehicle,80341,-17.02,0.3786,-5.24,Two-Wheeler
+FY2021,Maharashtra,Commercial Vehicle,64311,-19.95,0.337,-5.24,Two-Wheeler
+FY2022,Maharashtra,Commercial Vehicle,82395,28.12,0.4514,-5.24,Two-Wheeler
+FY2023,Maharashtra,Commercial Vehicle,110293,33.86,0.5012,-5.24,Two-Wheeler
+FY2024,Maharashtra,Commercial Vehicle,107558,-2.48,0.4193,-5.24,Two-Wheeler
+FY2019,Maharashtra,Electric Vehicle,6418,,0.025,103.77,Two-Wheeler
+FY2020,Maharashtra,Electric Vehicle,19641,206.03,0.0926,103.77,Two-Wheeler
+FY2021,Maharashtra,Electric Vehicle,30924,57.45,0.1621,103.77,Two-Wheeler
+FY2022,Maharashtra,Electric Vehicle,54302,75.6,0.2975,103.77,Two-Wheeler
+FY2023,Maharashtra,Electric Vehicle,117051,115.56,0.532,103.77,Two-Wheeler
+FY2024,Maharashtra,Electric Vehicle,212234,81.32,0.8274,103.77,Two-Wheeler
+FY2019,Maharashtra,Passenger Car,404859,,1.5795,-1.21,Two-Wheeler
+FY2020,Maharashtra,Passenger Car,358880,-11.36,1.6914,-1.21,Two-Wheeler
+FY2021,Maharashtra,Passenger Car,346978,-3.32,1.8183,-1.21,Two-Wheeler
+FY2022,Maharashtra,Passenger Car,390342,12.5,2.1384,-1.21,Two-Wheeler
+FY2023,Maharashtra,Passenger Car,502544,28.74,2.2839,-1.21,Two-Wheeler
+FY2024,Maharashtra,Passenger Car,551477,9.74,2.1499,-1.21,Two-Wheeler
+FY2019,Maharashtra,Three-Wheeler,87289,,0.3405,-12.71,Two-Wheeler
+FY2020,Maharashtra,Three-Wheeler,76689,-12.14,0.3614,-12.71,Two-Wheeler
+FY2021,Maharashtra,Three-Wheeler,60313,-21.35,0.3161,-12.71,Two-Wheeler
+FY2022,Maharashtra,Three-Wheeler,58047,-3.76,0.318,-12.71,Two-Wheeler
+FY2023,Maharashtra,Three-Wheeler,93727,61.47,0.426,-12.71,Two-Wheeler
+FY2024,Maharashtra,Three-Wheeler,123064,31.3,0.4798,-12.71,Two-Wheeler
+FY2019,Maharashtra,Two-Wheeler,2120146,,8.2713,-18.89,Two-Wheeler
+FY2020,Maharashtra,Two-Wheeler,1648237,-22.26,7.7681,-18.89,Two-Wheeler
+FY2021,Maharashtra,Two-Wheeler,1507129,-8.56,7.898,-18.89,Two-Wheeler
+FY2022,Maharashtra,Two-Wheeler,1131467,-24.93,6.1985,-18.89,Two-Wheeler
+FY2023,Maharashtra,Two-Wheeler,1526274,34.89,6.9364,-18.89,Two-Wheeler
+FY2024,Maharashtra,Two-Wheeler,1738855,13.93,6.7788,-18.89,Two-Wheeler
+FY2019,Manipur,Commercial Vehicle,1583,,0.0062,-5.17,Two-Wheeler
+FY2020,Manipur,Commercial Vehicle,1367,-13.64,0.0064,-5.17,Two-Wheeler
+FY2021,Manipur,Commercial Vehicle,1112,-18.65,0.0058,-5.17,Two-Wheeler
+FY2022,Manipur,Commercial Vehicle,1350,21.4,0.0074,-5.17,Two-Wheeler
+FY2023,Manipur,Commercial Vehicle,1868,38.37,0.0085,-5.17,Two-Wheeler
+FY2024,Manipur,Commercial Vehicle,1917,2.62,0.0075,-5.17,Two-Wheeler
+FY2019,Manipur,Electric Vehicle,1494,,0.0058,-34.7,Two-Wheeler
+FY2020,Manipur,Electric Vehicle,155,-89.63,0.0007,-34.7,Two-Wheeler
+FY2021,Manipur,Electric Vehicle,243,56.77,0.0013,-34.7,Two-Wheeler
+FY2022,Manipur,Electric Vehicle,416,71.19,0.0023,-34.7,Two-Wheeler
+FY2023,Manipur,Electric Vehicle,904,117.31,0.0041,-34.7,Two-Wheeler
+FY2024,Manipur,Electric Vehicle,1643,81.75,0.0064,-34.7,Two-Wheeler
+FY2019,Manipur,Passenger Car,22174,,0.0865,-48.27,Two-Wheeler
+FY2020,Manipur,Passenger Car,2793,-87.4,0.0132,-48.27,Two-Wheeler
+FY2021,Manipur,Passenger Car,2646,-5.26,0.0139,-48.27,Two-Wheeler
+FY2022,Manipur,Passenger Car,3070,16.02,0.0168,-48.27,Two-Wheeler
+FY2023,Manipur,Passenger Car,3992,30.03,0.0181,-48.27,Two-Wheeler
+FY2024,Manipur,Passenger Car,4096,2.61,0.016,-48.27,Two-Wheeler
+FY2019,Manipur,Three-Wheeler,1385,,0.0054,-10.89,Two-Wheeler
+FY2020,Manipur,Three-Wheeler,1282,-7.44,0.006,-10.89,Two-Wheeler
+FY2021,Manipur,Three-Wheeler,1025,-20.05,0.0054,-10.89,Two-Wheeler
+FY2022,Manipur,Three-Wheeler,980,-4.39,0.0054,-10.89,Two-Wheeler
+FY2023,Manipur,Three-Wheeler,1580,61.22,0.0072,-10.89,Two-Wheeler
+FY2024,Manipur,Three-Wheeler,2086,32.03,0.0081,-10.89,Two-Wheeler
+FY2019,Manipur,Two-Wheeler,44116,,0.1721,43.93,Two-Wheeler
+FY2020,Manipur,Two-Wheeler,35472,-19.59,0.1672,43.93,Two-Wheeler
+FY2021,Manipur,Two-Wheeler,30422,-14.24,0.1594,43.93,Two-Wheeler
+FY2022,Manipur,Two-Wheeler,131545,332.4,0.7206,43.93,Two-Wheeler
+FY2023,Manipur,Two-Wheeler,33084,-74.85,0.1504,43.93,Two-Wheeler
+FY2024,Manipur,Two-Wheeler,38143,15.29,0.1487,43.93,Two-Wheeler
+FY2019,Meghalaya,Commercial Vehicle,1634,,0.0064,-4.5,Two-Wheeler
+FY2020,Meghalaya,Commercial Vehicle,1436,-12.12,0.0068,-4.5,Two-Wheeler
+FY2021,Meghalaya,Commercial Vehicle,1064,-25.91,0.0056,-4.5,Two-Wheeler
+FY2022,Meghalaya,Commercial Vehicle,1423,33.74,0.0078,-4.5,Two-Wheeler
+FY2023,Meghalaya,Commercial Vehicle,1886,32.54,0.0086,-4.5,Two-Wheeler
+FY2024,Meghalaya,Commercial Vehicle,1926,2.12,0.0075,-4.5,Two-Wheeler
+FY2019,Meghalaya,Electric Vehicle,56,,0.0002,94.96,Two-Wheeler
+FY2020,Meghalaya,Electric Vehicle,145,158.93,0.0007,94.96,Two-Wheeler
+FY2021,Meghalaya,Electric Vehicle,238,64.14,0.0012,94.96,Two-Wheeler
+FY2022,Meghalaya,Electric Vehicle,415,74.37,0.0023,94.96,Two-Wheeler
+FY2023,Meghalaya,Electric Vehicle,871,109.88,0.004,94.96,Two-Wheeler
+FY2024,Meghalaya,Electric Vehicle,1556,78.65,0.0061,94.96,Two-Wheeler
+FY2019,Meghalaya,Passenger Car,6838,,0.0267,-4.73,Two-Wheeler
+FY2020,Meghalaya,Passenger Car,5534,-19.07,0.0261,-4.73,Two-Wheeler
+FY2021,Meghalaya,Passenger Car,5239,-5.33,0.0275,-4.73,Two-Wheeler
+FY2022,Meghalaya,Passenger Car,5913,12.87,0.0324,-4.73,Two-Wheeler
+FY2023,Meghalaya,Passenger Car,7496,26.77,0.0341,-4.73,Two-Wheeler
+FY2024,Meghalaya,Passenger Car,8362,11.55,0.0326,-4.73,Two-Wheeler
+FY2019,Meghalaya,Three-Wheeler,1405,,0.0055,-12.38,Two-Wheeler
+FY2020,Meghalaya,Three-Wheeler,1291,-8.11,0.0061,-12.38,Two-Wheeler
+FY2021,Meghalaya,Three-Wheeler,1023,-20.76,0.0054,-12.38,Two-Wheeler
+FY2022,Meghalaya,Three-Wheeler,945,-7.62,0.0052,-12.38,Two-Wheeler
+FY2023,Meghalaya,Three-Wheeler,1569,66.03,0.0071,-12.38,Two-Wheeler
+FY2024,Meghalaya,Three-Wheeler,2042,30.15,0.008,-12.38,Two-Wheeler
+FY2019,Meghalaya,Two-Wheeler,142916,,0.5576,-41.76,Two-Wheeler
+FY2020,Meghalaya,Two-Wheeler,36587,-74.4,0.1724,-41.76,Two-Wheeler
+FY2021,Meghalaya,Two-Wheeler,30572,-16.44,0.1602,-41.76,Two-Wheeler
+FY2022,Meghalaya,Two-Wheeler,28233,-7.65,0.1547,-41.76,Two-Wheeler
+FY2023,Meghalaya,Two-Wheeler,32872,16.43,0.1494,-41.76,Two-Wheeler
+FY2024,Meghalaya,Two-Wheeler,35930,9.3,0.1401,-41.76,Two-Wheeler
+FY2019,Nagaland,Commercial Vehicle,855,,0.0033,-7.3,Two-Wheeler
+FY2020,Nagaland,Commercial Vehicle,685,-19.88,0.0032,-7.3,Two-Wheeler
+FY2021,Nagaland,Commercial Vehicle,542,-20.88,0.0028,-7.3,Two-Wheeler
+FY2022,Nagaland,Commercial Vehicle,681,25.65,0.0037,-7.3,Two-Wheeler
+FY2023,Nagaland,Commercial Vehicle,911,33.77,0.0041,-7.3,Two-Wheeler
+FY2024,Nagaland,Commercial Vehicle,938,2.96,0.0037,-7.3,Two-Wheeler
+FY2019,Nagaland,Electric Vehicle,53,,0.0002,97.29,Two-Wheeler
+FY2020,Nagaland,Electric Vehicle,152,186.79,0.0007,97.29,Two-Wheeler
+FY2021,Nagaland,Electric Vehicle,228,50.0,0.0012,97.29,Two-Wheeler
+FY2022,Nagaland,Electric Vehicle,407,78.51,0.0022,97.29,Two-Wheeler
+FY2023,Nagaland,Electric Vehicle,874,114.74,0.004,97.29,Two-Wheeler
+FY2024,Nagaland,Electric Vehicle,1601,83.18,0.0062,97.29,Two-Wheeler
+FY2019,Nagaland,Passenger Car,3283,,0.0128,-2.7,Two-Wheeler
+FY2020,Nagaland,Passenger Car,2693,-17.97,0.0127,-2.7,Two-Wheeler
+FY2021,Nagaland,Passenger Car,2749,2.08,0.0144,-2.7,Two-Wheeler
+FY2022,Nagaland,Passenger Car,3024,10.0,0.0166,-2.7,Two-Wheeler
+FY2023,Nagaland,Passenger Car,3904,29.1,0.0177,-2.7,Two-Wheeler
+FY2024,Nagaland,Passenger Car,4442,13.78,0.0173,-2.7,Two-Wheeler
+FY2019,Nagaland,Three-Wheeler,702,,0.0027,-10.46,Two-Wheeler
+FY2020,Nagaland,Three-Wheeler,629,-10.4,0.003,-10.46,Two-Wheeler
+FY2021,Nagaland,Three-Wheeler,497,-20.99,0.0026,-10.46,Two-Wheeler
+FY2022,Nagaland,Three-Wheeler,504,1.41,0.0028,-10.46,Two-Wheeler
+FY2023,Nagaland,Three-Wheeler,797,58.13,0.0036,-10.46,Two-Wheeler
+FY2024,Nagaland,Three-Wheeler,1003,25.85,0.0039,-10.46,Two-Wheeler
+FY2019,Nagaland,Two-Wheeler,22098,,0.0862,-12.04,Two-Wheeler
+FY2020,Nagaland,Two-Wheeler,18428,-16.61,0.0869,-12.04,Two-Wheeler
+FY2021,Nagaland,Two-Wheeler,16011,-13.12,0.0839,-12.04,Two-Wheeler
+FY2022,Nagaland,Two-Wheeler,15037,-6.08,0.0824,-12.04,Two-Wheeler
+FY2023,Nagaland,Two-Wheeler,16641,10.67,0.0756,-12.04,Two-Wheeler
+FY2024,Nagaland,Two-Wheeler,18214,9.45,0.071,-12.04,Two-Wheeler
+FY2019,Odisha,Commercial Vehicle,16988,,0.0663,-5.34,Two-Wheeler
+FY2020,Odisha,Commercial Vehicle,14122,-16.87,0.0666,-5.34,Two-Wheeler
+FY2021,Odisha,Commercial Vehicle,11328,-19.78,0.0594,-5.34,Two-Wheeler
+FY2022,Odisha,Commercial Vehicle,14410,27.21,0.0789,-5.34,Two-Wheeler
+FY2023,Odisha,Commercial Vehicle,18883,31.04,0.0858,-5.34,Two-Wheeler
+FY2024,Odisha,Commercial Vehicle,19276,2.08,0.0751,-5.34,Two-Wheeler
+FY2019,Odisha,Electric Vehicle,871,,0.0034,91.49,Two-Wheeler
+FY2020,Odisha,Electric Vehicle,2273,160.96,0.0107,91.49,Two-Wheeler
+FY2021,Odisha,Electric Vehicle,3502,54.07,0.0184,91.49,Two-Wheeler
+FY2022,Odisha,Electric Vehicle,6116,74.64,0.0335,91.49,Two-Wheeler
+FY2023,Odisha,Electric Vehicle,13920,127.6,0.0633,91.49,Two-Wheeler
+FY2024,Odisha,Electric Vehicle,25272,81.55,0.0985,91.49,Two-Wheeler
+FY2019,Odisha,Passenger Car,61527,,0.24,-0.3,Two-Wheeler
+FY2020,Odisha,Passenger Car,49602,-19.38,0.2338,-0.3,Two-Wheeler
+FY2021,Odisha,Passenger Car,47776,-3.68,0.2504,-0.3,Two-Wheeler
+FY2022,Odisha,Passenger Car,60984,27.65,0.3341,-0.3,Two-Wheeler
+FY2023,Odisha,Passenger Car,70344,15.35,0.3197,-0.3,Two-Wheeler
+FY2024,Odisha,Passenger Car,74478,5.88,0.2903,-0.3,Two-Wheeler
+FY2019,Odisha,Three-Wheeler,14176,,0.0553,-10.75,Two-Wheeler
+FY2020,Odisha,Three-Wheeler,12484,-11.94,0.0588,-10.75,Two-Wheeler
+FY2021,Odisha,Three-Wheeler,9952,-20.28,0.0522,-10.75,Two-Wheeler
+FY2022,Odisha,Three-Wheeler,10078,1.27,0.0552,-10.75,Two-Wheeler
+FY2023,Odisha,Three-Wheeler,15874,57.51,0.0721,-10.75,Two-Wheeler
+FY2024,Odisha,Three-Wheeler,20362,28.27,0.0794,-10.75,Two-Wheeler
+FY2019,Odisha,Two-Wheeler,446816,,1.7432,-12.84,Two-Wheeler
+FY2020,Odisha,Two-Wheeler,360798,-19.25,1.7004,-12.84,Two-Wheeler
+FY2021,Odisha,Two-Wheeler,331105,-8.23,1.7351,-12.84,Two-Wheeler
+FY2022,Odisha,Two-Wheeler,295848,-10.65,1.6207,-12.84,Two-Wheeler
+FY2023,Odisha,Two-Wheeler,337684,14.14,1.5347,-12.84,Two-Wheeler
+FY2024,Odisha,Two-Wheeler,368858,9.23,1.438,-12.84,Two-Wheeler
+FY2019,Punjab,Commercial Vehicle,24930,,0.0973,-4.41,Two-Wheeler
+FY2020,Punjab,Commercial Vehicle,21658,-13.12,0.1021,-4.41,Two-Wheeler
+FY2021,Punjab,Commercial Vehicle,17848,-17.59,0.0935,-4.41,Two-Wheeler
+FY2022,Punjab,Commercial Vehicle,21773,21.99,0.1193,-4.41,Two-Wheeler
+FY2023,Punjab,Commercial Vehicle,28646,31.57,0.1302,-4.41,Two-Wheeler
+FY2024,Punjab,Commercial Vehicle,28774,0.45,0.1122,-4.41,Two-Wheeler
+FY2019,Punjab,Electric Vehicle,1491,,0.0058,88.59,Two-Wheeler
+FY2020,Punjab,Electric Vehicle,3844,157.81,0.0181,88.59,Two-Wheeler
+FY2021,Punjab,Electric Vehicle,5945,54.66,0.0312,88.59,Two-Wheeler
+FY2022,Punjab,Electric Vehicle,10001,68.23,0.0548,88.59,Two-Wheeler
+FY2023,Punjab,Electric Vehicle,19563,95.61,0.0889,88.59,Two-Wheeler
+FY2024,Punjab,Electric Vehicle,39003,99.37,0.152,88.59,Two-Wheeler
+FY2019,Punjab,Passenger Car,100135,,0.3907,-2.7,Two-Wheeler
+FY2020,Punjab,Passenger Car,83304,-16.81,0.3926,-2.7,Two-Wheeler
+FY2021,Punjab,Passenger Car,81332,-2.37,0.4262,-2.7,Two-Wheeler
+FY2022,Punjab,Passenger Car,92231,13.4,0.5053,-2.7,Two-Wheeler
+FY2023,Punjab,Passenger Car,114534,24.18,0.5205,-2.7,Two-Wheeler
+FY2024,Punjab,Passenger Car,121719,6.27,0.4745,-2.7,Two-Wheeler
+FY2019,Punjab,Three-Wheeler,18511,,0.0722,-12.91,Two-Wheeler
+FY2020,Punjab,Three-Wheeler,15956,-13.8,0.0752,-12.91,Two-Wheeler
+FY2021,Punjab,Three-Wheeler,13067,-18.11,0.0685,-12.91,Two-Wheeler
+FY2022,Punjab,Three-Wheeler,12229,-6.41,0.067,-12.91,Two-Wheeler
+FY2023,Punjab,Three-Wheeler,19056,55.83,0.0866,-12.91,Two-Wheeler
+FY2024,Punjab,Three-Wheeler,24861,30.46,0.0969,-12.91,Two-Wheeler
+FY2019,Punjab,Two-Wheeler,547338,,2.1353,-13.2,Two-Wheeler
+FY2020,Punjab,Two-Wheeler,447337,-18.27,2.1083,-13.2,Two-Wheeler
+FY2021,Punjab,Two-Wheeler,390389,-12.73,2.0458,-13.2,Two-Wheeler
+FY2022,Punjab,Two-Wheeler,357954,-8.31,1.961,-13.2,Two-Wheeler
+FY2023,Punjab,Two-Wheeler,408691,14.17,1.8574,-13.2,Two-Wheeler
+FY2024,Punjab,Two-Wheeler,457735,12.0,1.7844,-13.2,Two-Wheeler
+FY2019,Rajasthan,Commercial Vehicle,62517,,0.2439,-6.56,Two-Wheeler
+FY2020,Rajasthan,Commercial Vehicle,52198,-16.51,0.246,-6.56,Two-Wheeler
+FY2021,Rajasthan,Commercial Vehicle,40812,-21.81,0.2139,-6.56,Two-Wheeler
+FY2022,Rajasthan,Commercial Vehicle,51008,24.98,0.2794,-6.56,Two-Wheeler
+FY2023,Rajasthan,Commercial Vehicle,71437,40.05,0.3247,-6.56,Two-Wheeler
+FY2024,Rajasthan,Commercial Vehicle,71779,0.48,0.2798,-6.56,Two-Wheeler
+FY2019,Rajasthan,Electric Vehicle,2366,,0.0092,92.76,Two-Wheeler
+FY2020,Rajasthan,Electric Vehicle,6150,159.93,0.029,92.76,Two-Wheeler
+FY2021,Rajasthan,Electric Vehicle,9258,50.54,0.0485,92.76,Two-Wheeler
+FY2022,Rajasthan,Electric Vehicle,16946,83.04,0.0928,92.76,Two-Wheeler
+FY2023,Rajasthan,Electric Vehicle,37337,120.33,0.1697,92.76,Two-Wheeler
+FY2024,Rajasthan,Electric Vehicle,63535,70.17,0.2477,92.76,Two-Wheeler
+FY2019,Rajasthan,Passenger Car,186045,,0.7258,-3.53,Two-Wheeler
+FY2020,Rajasthan,Passenger Car,154920,-16.73,0.7301,-3.53,Two-Wheeler
+FY2021,Rajasthan,Passenger Car,153062,-1.2,0.8021,-3.53,Two-Wheeler
+FY2022,Rajasthan,Passenger Car,167045,9.14,0.9151,-3.53,Two-Wheeler
+FY2023,Rajasthan,Passenger Car,211833,26.81,0.9627,-3.53,Two-Wheeler
+FY2024,Rajasthan,Passenger Car,236396,11.6,0.9216,-3.53,Two-Wheeler
+FY2019,Rajasthan,Three-Wheeler,35974,,0.1403,-12.93,Two-Wheeler
+FY2020,Rajasthan,Three-Wheeler,31918,-11.27,0.1504,-12.93,Two-Wheeler
+FY2021,Rajasthan,Three-Wheeler,23527,-26.29,0.1233,-12.93,Two-Wheeler
+FY2022,Rajasthan,Three-Wheeler,23743,0.92,0.1301,-12.93,Two-Wheeler
+FY2023,Rajasthan,Three-Wheeler,39293,65.49,0.1786,-12.93,Two-Wheeler
+FY2024,Rajasthan,Three-Wheeler,51567,31.24,0.201,-12.93,Two-Wheeler
+FY2019,Rajasthan,Two-Wheeler,1534095,,5.985,-13.14,Two-Wheeler
+FY2020,Rajasthan,Two-Wheeler,1279551,-16.59,6.0305,-13.14,Two-Wheeler
+FY2021,Rajasthan,Two-Wheeler,1152052,-9.96,6.0372,-13.14,Two-Wheeler
+FY2022,Rajasthan,Two-Wheeler,1005168,-12.75,5.5066,-13.14,Two-Wheeler
+FY2023,Rajasthan,Two-Wheeler,758263,-24.56,3.4461,-13.14,Two-Wheeler
+FY2024,Rajasthan,Two-Wheeler,1299064,71.32,5.0643,-13.14,Two-Wheeler
+FY2019,Sikkim,Commercial Vehicle,830,,0.0032,-6.43,Two-Wheeler
+FY2020,Sikkim,Commercial Vehicle,707,-14.82,0.0033,-6.43,Two-Wheeler
+FY2021,Sikkim,Commercial Vehicle,558,-21.07,0.0029,-6.43,Two-Wheeler
+FY2022,Sikkim,Commercial Vehicle,680,21.86,0.0037,-6.43,Two-Wheeler
+FY2023,Sikkim,Commercial Vehicle,949,39.56,0.0043,-6.43,Two-Wheeler
+FY2024,Sikkim,Commercial Vehicle,979,3.16,0.0038,-6.43,Two-Wheeler
+FY2019,Sikkim,Electric Vehicle,54,,0.0002,93.63,Two-Wheeler
+FY2020,Sikkim,Electric Vehicle,146,170.37,0.0007,93.63,Two-Wheeler
+FY2021,Sikkim,Electric Vehicle,227,55.48,0.0012,93.63,Two-Wheeler
+FY2022,Sikkim,Electric Vehicle,392,72.69,0.0021,93.63,Two-Wheeler
+FY2023,Sikkim,Electric Vehicle,894,128.06,0.0041,93.63,Two-Wheeler
+FY2024,Sikkim,Electric Vehicle,1662,85.91,0.0065,93.63,Two-Wheeler
+FY2019,Sikkim,Passenger Car,3395,,0.0132,-2.85,Two-Wheeler
+FY2020,Sikkim,Passenger Car,2778,-18.17,0.0131,-2.85,Two-Wheeler
+FY2021,Sikkim,Passenger Car,2728,-1.8,0.0143,-2.85,Two-Wheeler
+FY2022,Sikkim,Passenger Car,3113,14.11,0.0171,-2.85,Two-Wheeler
+FY2023,Sikkim,Passenger Car,3766,20.98,0.0171,-2.85,Two-Wheeler
+FY2024,Sikkim,Passenger Car,4085,8.47,0.0159,-2.85,Two-Wheeler
+FY2019,Sikkim,Three-Wheeler,690,,0.0027,-10.9,Two-Wheeler
+FY2020,Sikkim,Three-Wheeler,628,-8.99,0.003,-10.9,Two-Wheeler
+FY2021,Sikkim,Three-Wheeler,513,-18.31,0.0027,-10.9,Two-Wheeler
+FY2022,Sikkim,Three-Wheeler,488,-4.87,0.0027,-10.9,Two-Wheeler
+FY2023,Sikkim,Three-Wheeler,779,59.63,0.0035,-10.9,Two-Wheeler
+FY2024,Sikkim,Three-Wheeler,1020,30.94,0.004,-10.9,Two-Wheeler
+FY2019,Sikkim,Two-Wheeler,22394,,0.0874,-13.71,Two-Wheeler
+FY2020,Sikkim,Two-Wheeler,18367,-17.98,0.0866,-13.71,Two-Wheeler
+FY2021,Sikkim,Two-Wheeler,16513,-10.09,0.0865,-13.71,Two-Wheeler
+FY2022,Sikkim,Two-Wheeler,14390,-12.86,0.0788,-13.71,Two-Wheeler
+FY2023,Sikkim,Two-Wheeler,122279,749.75,0.5557,-13.71,Two-Wheeler
+FY2024,Sikkim,Two-Wheeler,19364,-84.16,0.0755,-13.71,Two-Wheeler
+FY2019,Tamil Nadu,Commercial Vehicle,69004,,0.2692,-5.28,Two-Wheeler
+FY2020,Tamil Nadu,Commercial Vehicle,58865,-14.69,0.2774,-5.28,Two-Wheeler
+FY2021,Tamil Nadu,Commercial Vehicle,47607,-19.13,0.2495,-5.28,Two-Wheeler
+FY2022,Tamil Nadu,Commercial Vehicle,58650,23.2,0.3213,-5.28,Two-Wheeler
+FY2023,Tamil Nadu,Commercial Vehicle,78725,34.23,0.3578,-5.28,Two-Wheeler
+FY2024,Tamil Nadu,Commercial Vehicle,81004,2.89,0.3158,-5.28,Two-Wheeler
+FY2019,Tamil Nadu,Electric Vehicle,5347,,0.0209,95.01,Two-Wheeler
+FY2020,Tamil Nadu,Electric Vehicle,14467,170.56,0.0682,95.01,Two-Wheeler
+FY2021,Tamil Nadu,Electric Vehicle,21738,50.26,0.1139,95.01,Two-Wheeler
+FY2022,Tamil Nadu,Electric Vehicle,39655,82.42,0.2172,95.01,Two-Wheeler
+FY2023,Tamil Nadu,Electric Vehicle,84441,112.94,0.3838,95.01,Two-Wheeler
+FY2024,Tamil Nadu,Electric Vehicle,160928,90.58,0.6274,95.01,Two-Wheeler
+FY2019,Tamil Nadu,Passenger Car,312377,,1.2187,-1.58,Two-Wheeler
+FY2020,Tamil Nadu,Passenger Car,208675,-33.2,0.9835,-1.58,Two-Wheeler
+FY2021,Tamil Nadu,Passenger Car,261436,25.28,1.37,-1.58,Two-Wheeler
+FY2022,Tamil Nadu,Passenger Car,297817,13.92,1.6315,-1.58,Two-Wheeler
+FY2023,Tamil Nadu,Passenger Car,299750,0.65,1.3623,-1.58,Two-Wheeler
+FY2024,Tamil Nadu,Passenger Car,323428,7.9,1.2609,-1.58,Two-Wheeler
+FY2019,Tamil Nadu,Three-Wheeler,42984,,0.1677,-11.6,Two-Wheeler
+FY2020,Tamil Nadu,Three-Wheeler,38543,-10.33,0.1817,-11.6,Two-Wheeler
+FY2021,Tamil Nadu,Three-Wheeler,30115,-21.87,0.1578,-11.6,Two-Wheeler
+FY2022,Tamil Nadu,Three-Wheeler,29692,-1.4,0.1627,-11.6,Two-Wheeler
+FY2023,Tamil Nadu,Three-Wheeler,46307,55.96,0.2105,-11.6,Two-Wheeler
+FY2024,Tamil Nadu,Three-Wheeler,58798,26.97,0.2292,-11.6,Two-Wheeler
+FY2019,Tamil Nadu,Two-Wheeler,1660294,,6.4773,-11.88,Two-Wheeler
+FY2020,Tamil Nadu,Two-Wheeler,1486494,-10.47,7.0058,-11.88,Two-Wheeler
+FY2021,Tamil Nadu,Two-Wheeler,1268224,-14.68,6.646,-11.88,Two-Wheeler
+FY2022,Tamil Nadu,Two-Wheeler,1135990,-10.43,6.2232,-11.88,Two-Wheeler
+FY2023,Tamil Nadu,Two-Wheeler,1354481,19.23,6.1557,-11.88,Two-Wheeler
+FY2024,Tamil Nadu,Two-Wheeler,1513238,11.72,5.8992,-11.88,Two-Wheeler
+FY2019,Telangana,Commercial Vehicle,36435,,0.1421,-8.2,Two-Wheeler
+FY2020,Telangana,Commercial Vehicle,31971,-12.25,0.1507,-8.2,Two-Wheeler
+FY2021,Telangana,Commercial Vehicle,25197,-21.19,0.132,-8.2,Two-Wheeler
+FY2022,Telangana,Commercial Vehicle,28190,11.88,0.1544,-8.2,Two-Wheeler
+FY2023,Telangana,Commercial Vehicle,42635,51.24,0.1938,-8.2,Two-Wheeler
+FY2024,Telangana,Commercial Vehicle,42295,-0.8,0.1649,-8.2,Two-Wheeler
+FY2019,Telangana,Electric Vehicle,4425,,0.0173,93.88,Two-Wheeler
+FY2020,Telangana,Electric Vehicle,11644,163.14,0.0549,93.88,Two-Wheeler
+FY2021,Telangana,Electric Vehicle,17733,52.29,0.0929,93.88,Two-Wheeler
+FY2022,Telangana,Electric Vehicle,32251,81.87,0.1767,93.88,Two-Wheeler
+FY2023,Telangana,Electric Vehicle,70864,119.73,0.3221,93.88,Two-Wheeler
+FY2024,Telangana,Electric Vehicle,121319,71.2,0.473,93.88,Two-Wheeler
+FY2019,Telangana,Passenger Car,195305,,0.7619,-2.4,Two-Wheeler
+FY2020,Telangana,Passenger Car,175726,-10.02,0.8282,-2.4,Two-Wheeler
+FY2021,Telangana,Passenger Car,160738,-8.53,0.8423,-2.4,Two-Wheeler
+FY2022,Telangana,Passenger Car,181566,12.96,0.9947,-2.4,Two-Wheeler
+FY2023,Telangana,Passenger Car,239556,31.94,1.0887,-2.4,Two-Wheeler
+FY2024,Telangana,Passenger Car,242464,1.21,0.9452,-2.4,Two-Wheeler
+FY2019,Telangana,Three-Wheeler,28706,,0.112,-10.58,Two-Wheeler
+FY2020,Telangana,Three-Wheeler,25732,-10.36,0.1213,-10.58,Two-Wheeler
+FY2021,Telangana,Three-Wheeler,20297,-21.12,0.1064,-10.58,Two-Wheeler
+FY2022,Telangana,Three-Wheeler,20526,1.13,0.1124,-10.58,Two-Wheeler
+FY2023,Telangana,Three-Wheeler,31574,53.82,0.1435,-10.58,Two-Wheeler
+FY2024,Telangana,Three-Wheeler,41244,30.63,0.1608,-10.58,Two-Wheeler
+FY2019,Telangana,Two-Wheeler,951366,,3.7116,-14.74,Two-Wheeler
+FY2020,Telangana,Two-Wheeler,835484,-12.18,3.9376,-14.74,Two-Wheeler
+FY2021,Telangana,Two-Wheeler,738341,-11.63,3.8692,-14.74,Two-Wheeler
+FY2022,Telangana,Two-Wheeler,589677,-20.13,3.2304,-14.74,Two-Wheeler
+FY2023,Telangana,Two-Wheeler,757674,28.49,3.4434,-14.74,Two-Wheeler
+FY2024,Telangana,Two-Wheeler,872179,15.11,3.4001,-14.74,Two-Wheeler
+FY2019,Tripura,Commercial Vehicle,2550,,0.0099,-6.66,Two-Wheeler
+FY2020,Tripura,Commercial Vehicle,2090,-18.04,0.0099,-6.66,Two-Wheeler
+FY2021,Tripura,Commercial Vehicle,1632,-21.91,0.0086,-6.66,Two-Wheeler
+FY2022,Tripura,Commercial Vehicle,2074,27.08,0.0114,-6.66,Two-Wheeler
+FY2023,Tripura,Commercial Vehicle,2801,35.05,0.0127,-6.66,Two-Wheeler
+FY2024,Tripura,Commercial Vehicle,2790,-0.39,0.0109,-6.66,Two-Wheeler
+FY2019,Tripura,Electric Vehicle,112,,0.0004,94.18,Two-Wheeler
+FY2020,Tripura,Electric Vehicle,302,169.64,0.0014,94.18,Two-Wheeler
+FY2021,Tripura,Electric Vehicle,451,49.34,0.0024,94.18,Two-Wheeler
+FY2022,Tripura,Electric Vehicle,820,81.82,0.0045,94.18,Two-Wheeler
+FY2023,Tripura,Electric Vehicle,1752,113.66,0.008,94.18,Two-Wheeler
+FY2024,Tripura,Electric Vehicle,3394,93.72,0.0132,94.18,Two-Wheeler
+FY2019,Tripura,Passenger Car,6907,,0.0269,-4.31,Two-Wheeler
+FY2020,Tripura,Passenger Car,5265,-23.77,0.0248,-4.31,Two-Wheeler
+FY2021,Tripura,Passenger Car,5339,1.41,0.028,-4.31,Two-Wheeler
+FY2022,Tripura,Passenger Car,6051,13.34,0.0331,-4.31,Two-Wheeler
+FY2023,Tripura,Passenger Car,8070,33.37,0.0367,-4.31,Two-Wheeler
+FY2024,Tripura,Passenger Car,8486,5.15,0.0331,-4.31,Two-Wheeler
+FY2019,Tripura,Three-Wheeler,2102,,0.0082,-11.3,Two-Wheeler
+FY2020,Tripura,Three-Wheeler,1921,-8.61,0.0091,-11.3,Two-Wheeler
+FY2021,Tripura,Three-Wheeler,1490,-22.44,0.0078,-11.3,Two-Wheeler
+FY2022,Tripura,Three-Wheeler,1467,-1.54,0.008,-11.3,Two-Wheeler
+FY2023,Tripura,Three-Wheeler,2423,65.17,0.011,-11.3,Two-Wheeler
+FY2024,Tripura,Three-Wheeler,3004,23.98,0.0117,-11.3,Two-Wheeler
+FY2019,Tripura,Two-Wheeler,65356,,0.255,29.8,Two-Wheeler
+FY2020,Tripura,Two-Wheeler,53167,-18.65,0.2506,29.8,Two-Wheeler
+FY2021,Tripura,Two-Wheeler,46596,-12.36,0.2442,29.8,Two-Wheeler
+FY2022,Tripura,Two-Wheeler,142935,206.75,0.783,29.8,Two-Wheeler
+FY2023,Tripura,Two-Wheeler,48603,-66.0,0.2209,29.8,Two-Wheeler
+FY2024,Tripura,Two-Wheeler,57936,19.2,0.2259,29.8,Two-Wheeler
+FY2019,Uttar Pradesh,Commercial Vehicle,93719,,0.3656,-6.4,Two-Wheeler
+FY2020,Uttar Pradesh,Commercial Vehicle,76238,-18.65,0.3593,-6.4,Two-Wheeler
+FY2021,Uttar Pradesh,Commercial Vehicle,63110,-17.22,0.3307,-6.4,Two-Wheeler
+FY2022,Uttar Pradesh,Commercial Vehicle,76850,21.77,0.421,-6.4,Two-Wheeler
+FY2023,Uttar Pradesh,Commercial Vehicle,100927,31.33,0.4587,-6.4,Two-Wheeler
+FY2024,Uttar Pradesh,Commercial Vehicle,104205,3.25,0.4062,-6.4,Two-Wheeler
+FY2019,Uttar Pradesh,Electric Vehicle,3786,,0.0148,93.88,Two-Wheeler
+FY2020,Uttar Pradesh,Electric Vehicle,10289,171.76,0.0485,93.88,Two-Wheeler
+FY2021,Uttar Pradesh,Electric Vehicle,13471,30.93,0.0706,93.88,Two-Wheeler
+FY2022,Uttar Pradesh,Electric Vehicle,27592,104.83,0.1512,93.88,Two-Wheeler
+FY2023,Uttar Pradesh,Electric Vehicle,59324,115.0,0.2696,93.88,Two-Wheeler
+FY2024,Uttar Pradesh,Electric Vehicle,105077,77.12,0.4096,93.88,Two-Wheeler
+FY2019,Uttar Pradesh,Passenger Car,298376,,1.1641,-3.2,Two-Wheeler
+FY2020,Uttar Pradesh,Passenger Car,235684,-21.01,1.1108,-3.2,Two-Wheeler
+FY2021,Uttar Pradesh,Passenger Car,203777,-13.54,1.0679,-3.2,Two-Wheeler
+FY2022,Uttar Pradesh,Passenger Car,270615,32.8,1.4825,-3.2,Two-Wheeler
+FY2023,Uttar Pradesh,Passenger Car,348353,28.73,1.5832,-3.2,Two-Wheeler
+FY2024,Uttar Pradesh,Passenger Car,393156,12.86,1.5327,-3.2,Two-Wheeler
+FY2019,Uttar Pradesh,Three-Wheeler,100395,,0.3917,-10.99,Two-Wheeler
+FY2020,Uttar Pradesh,Three-Wheeler,92737,-7.63,0.4371,-10.99,Two-Wheeler
+FY2021,Uttar Pradesh,Three-Wheeler,74578,-19.58,0.3908,-10.99,Two-Wheeler
+FY2022,Uttar Pradesh,Three-Wheeler,70805,-5.06,0.3879,-10.99,Two-Wheeler
+FY2023,Uttar Pradesh,Three-Wheeler,112920,59.48,0.5132,-10.99,Two-Wheeler
+FY2024,Uttar Pradesh,Three-Wheeler,147724,30.82,0.5759,-10.99,Two-Wheeler
+FY2019,Uttar Pradesh,Two-Wheeler,2540450,,9.911,-11.92,Two-Wheeler
+FY2020,Uttar Pradesh,Two-Wheeler,2178709,-14.24,10.2682,-11.92,Two-Wheeler
+FY2021,Uttar Pradesh,Two-Wheeler,1916464,-12.04,10.043,-11.92,Two-Wheeler
+FY2022,Uttar Pradesh,Two-Wheeler,1735939,-9.42,9.5099,-11.92,Two-Wheeler
+FY2023,Uttar Pradesh,Two-Wheeler,1985326,14.37,9.0227,-11.92,Two-Wheeler
+FY2024,Uttar Pradesh,Two-Wheeler,2315006,16.61,9.0249,-11.92,Two-Wheeler
+FY2019,Uttarakhand,Commercial Vehicle,9775,,0.0381,-5.65,Two-Wheeler
+FY2020,Uttarakhand,Commercial Vehicle,8351,-14.57,0.0394,-5.65,Two-Wheeler
+FY2021,Uttarakhand,Commercial Vehicle,6806,-18.5,0.0357,-5.65,Two-Wheeler
+FY2022,Uttarakhand,Commercial Vehicle,8210,20.63,0.045,-5.65,Two-Wheeler
+FY2023,Uttarakhand,Commercial Vehicle,11503,40.11,0.0523,-5.65,Two-Wheeler
+FY2024,Uttarakhand,Commercial Vehicle,11212,-2.53,0.0437,-5.65,Two-Wheeler
+FY2019,Uttarakhand,Electric Vehicle,1922,,0.0075,29.22,Two-Wheeler
+FY2020,Uttarakhand,Electric Vehicle,1455,-24.3,0.0069,29.22,Two-Wheeler
+FY2021,Uttarakhand,Electric Vehicle,2348,61.37,0.0123,29.22,Two-Wheeler
+FY2022,Uttarakhand,Electric Vehicle,4147,76.62,0.0227,29.22,Two-Wheeler
+FY2023,Uttarakhand,Electric Vehicle,8858,113.6,0.0403,29.22,Two-Wheeler
+FY2024,Uttarakhand,Electric Vehicle,16800,89.66,0.0655,29.22,Two-Wheeler
+FY2019,Uttarakhand,Passenger Car,33251,,0.1297,-2.55,Two-Wheeler
+FY2020,Uttarakhand,Passenger Car,28066,-15.59,0.1323,-2.55,Two-Wheeler
+FY2021,Uttarakhand,Passenger Car,27165,-3.21,0.1424,-2.55,Two-Wheeler
+FY2022,Uttarakhand,Passenger Car,30768,13.26,0.1686,-2.55,Two-Wheeler
+FY2023,Uttarakhand,Passenger Car,37543,22.02,0.1706,-2.55,Two-Wheeler
+FY2024,Uttarakhand,Passenger Car,42529,13.28,0.1658,-2.55,Two-Wheeler
+FY2019,Uttarakhand,Three-Wheeler,6973,,0.0272,-11.49,Two-Wheeler
+FY2020,Uttarakhand,Three-Wheeler,6519,-6.51,0.0307,-11.49,Two-Wheeler
+FY2021,Uttarakhand,Three-Wheeler,4933,-24.33,0.0259,-11.49,Two-Wheeler
+FY2022,Uttarakhand,Three-Wheeler,4835,-1.99,0.0265,-11.49,Two-Wheeler
+FY2023,Uttarakhand,Three-Wheeler,7502,55.16,0.0341,-11.49,Two-Wheeler
+FY2024,Uttarakhand,Three-Wheeler,9993,33.2,0.039,-11.49,Two-Wheeler
+FY2019,Uttarakhand,Two-Wheeler,219323,,0.8556,-13.93,Two-Wheeler
+FY2020,Uttarakhand,Two-Wheeler,248389,13.25,1.1706,-13.93,Two-Wheeler
+FY2021,Uttarakhand,Two-Wheeler,158090,-36.35,0.8285,-13.93,Two-Wheeler
+FY2022,Uttarakhand,Two-Wheeler,139859,-11.53,0.7662,-13.93,Two-Wheeler
+FY2023,Uttarakhand,Two-Wheeler,169745,21.37,0.7714,-13.93,Two-Wheeler
+FY2024,Uttarakhand,Two-Wheeler,190820,12.42,0.7439,-13.93,Two-Wheeler
+FY2019,West Bengal,Commercial Vehicle,41158,,0.1606,-4.31,Two-Wheeler
+FY2020,West Bengal,Commercial Vehicle,34845,-15.34,0.1642,-4.31,Two-Wheeler
+FY2021,West Bengal,Commercial Vehicle,26483,-24.0,0.1388,-4.31,Two-Wheeler
+FY2022,West Bengal,Commercial Vehicle,36064,36.18,0.1976,-4.31,Two-Wheeler
+FY2023,West Bengal,Commercial Vehicle,45658,26.6,0.2075,-4.31,Two-Wheeler
+FY2024,West Bengal,Commercial Vehicle,46979,2.89,0.1831,-4.31,Two-Wheeler
+FY2019,West Bengal,Electric Vehicle,2133,,0.0083,91.22,Two-Wheeler
+FY2020,West Bengal,Electric Vehicle,5461,156.02,0.0257,91.22,Two-Wheeler
+FY2021,West Bengal,Electric Vehicle,8046,47.34,0.0422,91.22,Two-Wheeler
+FY2022,West Bengal,Electric Vehicle,14914,85.36,0.0817,91.22,Two-Wheeler
+FY2023,West Bengal,Electric Vehicle,31939,114.15,0.1452,91.22,Two-Wheeler
+FY2024,West Bengal,Electric Vehicle,55944,75.16,0.2181,91.22,Two-Wheeler
+FY2019,West Bengal,Passenger Car,136566,,0.5328,-0.59,Two-Wheeler
+FY2020,West Bengal,Passenger Car,122787,-10.09,0.5787,-0.59,Two-Wheeler
+FY2021,West Bengal,Passenger Car,109234,-11.04,0.5724,-0.59,Two-Wheeler
+FY2022,West Bengal,Passenger Car,134175,22.83,0.735,-0.59,Two-Wheeler
+FY2023,West Bengal,Passenger Car,173210,29.09,0.7872,-0.59,Two-Wheeler
+FY2024,West Bengal,Passenger Car,187672,8.35,0.7316,-0.59,Two-Wheeler
+FY2019,West Bengal,Three-Wheeler,45728,,0.1784,-12.35,Two-Wheeler
+FY2020,West Bengal,Three-Wheeler,41891,-8.39,0.1974,-12.35,Two-Wheeler
+FY2021,West Bengal,Three-Wheeler,32132,-23.3,0.1684,-12.35,Two-Wheeler
+FY2022,West Bengal,Three-Wheeler,30793,-4.17,0.1687,-12.35,Two-Wheeler
+FY2023,West Bengal,Three-Wheeler,51632,67.67,0.2347,-12.35,Two-Wheeler
+FY2024,West Bengal,Three-Wheeler,67250,30.25,0.2622,-12.35,Two-Wheeler
+FY2019,West Bengal,Two-Wheeler,1119751,,4.3685,-14.23,Two-Wheeler
+FY2020,West Bengal,Two-Wheeler,894150,-20.15,4.2141,-14.23,Two-Wheeler
+FY2021,West Bengal,Two-Wheeler,698258,-21.91,3.6591,-14.23,Two-Wheeler
+FY2022,West Bengal,Two-Wheeler,706601,1.19,3.8709,-14.23,Two-Wheeler
+FY2023,West Bengal,Two-Wheeler,831904,17.73,3.7807,-14.23,Two-Wheeler
+FY2024,West Bengal,Two-Wheeler,930178,11.81,3.6262,-14.23,Two-Wheeler
